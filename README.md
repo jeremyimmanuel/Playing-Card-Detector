@@ -14,5 +14,5 @@ https://www.kaggle.com/luantm/playing-card
 It's divided into <b>296<b> images and annotations files for <b>training<b>. While the <b>test<b> dataset comprises of <b>67<b> images and annotations files.
   
 ## Example images and dataset
-
+![sample_image.jpg] (sample_image.jpg)
 
