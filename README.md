@@ -24,5 +24,15 @@ It's divided into <b>296<b> images and annotations files for <b>training<b>. Whi
 The dataset contains six classes; king, queen, jack, ten, nine, and ace.
 However, in this project, we will simplify the problem into two classes; <b>either there are playing cards or not.<b>
   
-# Result
+# Weights download
+*put links here*
 
+# Result
+For evaluating object detection results we use a metric called mean average precision or mAP for short.
+After training we get a result of:
+Train mAP: 0.985
+Test mAP: 0.944
+
+In a real life test, I noticed that most of the error are false positives. Which means that it usually puts bounding boxes on objects that are not playing cards. However, whenever there is a playing card it always correctly identify it as a playing card.
+
+# Future work
