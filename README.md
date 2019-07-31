@@ -18,8 +18,11 @@ It's divided into <b>296<b> images and annotations files for <b>training<b>. Whi
 ![sample image](sample_image.jpg)
 
 ### Sample corresponding annotation
-![sample annotation](sampe_annotations.jpg)
+![sample annotation](sample_annotations.jpg)
 
 ## Clasess
 The dataset contains six classes; king, queen, jack, ten, nine, and ace.
 However, in this project, we will simplify the problem into two classes; <b>either there are playing cards or not.<b>
+  
+# Result
+
